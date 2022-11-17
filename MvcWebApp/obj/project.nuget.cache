@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmOcTvElis4b47Wqa1ACWOU+1h0lLz4o0eoYxyoq4WWAAMTwRHtO+lvH2CJQvNtj2B+hnaTnT/JL7+eOaQnzQA==",
+  "success": true,
+  "projectFilePath": "/Users/mvmanh/Desktop/new/MvcWebApp/MvcWebApp/MvcWebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mvmanh/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/mvmanh/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/mvmanh/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
